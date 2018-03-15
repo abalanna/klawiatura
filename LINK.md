@@ -1,1 +1,1 @@
-https://configure.ergodox-ez.com/keyboard_layouts/kdmvjm/edit
+https://configure.ergodox-ez.com/keyboard_layouts/kdmvjm/
